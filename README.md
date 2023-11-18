@@ -14,9 +14,9 @@ This Weather App is a React-based project created for the purpose of honing API 
 2. Install the required dependencies using npm install.
 3. Obtain an API key from your preferred weather API provider.
 4. Create a .env file in the project root and add your API key as follows:
-```
-REACT_APP_API_KEY=your_api_key_here
-```
+  ```
+  REACT_APP_API_KEY=your_api_key_here
+  ```
 5. Run the app using npm start.
 
 Explore and enhance your React and API skills with this practical Weather App project! Feel free to customize and expand upon it as you continue your journey into web development. Happy coding!
